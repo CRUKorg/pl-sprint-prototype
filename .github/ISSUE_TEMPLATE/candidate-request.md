@@ -1,16 +1,14 @@
 ---
 name: Candidate request
-about: Submitting a new pattern to the patter library
+about: Submitting a new pattern to the pattern library
 
 ---
 
-# Short name
-
 # Description
 ## Acceptance crtieria
-- [] Criteria 1
-- [] Criteria 2
-- [] etc
+- [ ] Criteria 1
+- [ ] Criteria 2
+- [ ] etc
 
 # Sign-off dev
 @peteainsworth
